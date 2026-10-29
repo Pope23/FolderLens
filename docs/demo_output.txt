@@ -1,0 +1,25 @@
+
+============================================================
+  FOLDERLENS | SMART FILE ANALYZER
+============================================================
+Folder       : ./demo_data (example path)
+Files        : 4
+Subfolders   : 2
+Total size   : 306 B
+Read errors  : 0
+
+--- FILE TYPES (by disk usage) ---
+Extension                Files            Size
+----------------------------------------------
+.txt                         2           183 B
+.cpp                         1            75 B
+.csv                         1            48 B
+
+--- TOP 4 LARGEST FILES ---
+  1         134 B   notes/ideas.txt
+  2          75 B   sample.cpp
+  3          49 B   notes/todo.txt
+  4          48 B   reports/summary.csv
+
+Read-only scan complete. No files were modified.
+CSV exported: build/report.csv

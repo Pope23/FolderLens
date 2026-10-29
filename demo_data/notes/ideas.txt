@@ -1,0 +1,5 @@
+FolderLens demo data
+- Recursive folder scanning
+- Extension-based disk usage statistics
+- Top N largest files
+- CSV export for Excel
